@@ -10,3 +10,6 @@ Name          | Late  | Absence | Bonus | Amount  |
 @JayChl       | 1     |         |       | -20,000 |
 @newklus      |       | 1       |       | -40,000 |
 @taxoo.kim    |       | 1       |       | -10,000 |
+
+
+11.09 : hyungheo(+50000), taxoo.kim(+10000)
