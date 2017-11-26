@@ -1,15 +1,15 @@
 # lunchclass
 
-Name          | Late  | Absence | Bonus | Amount  |
-------------- | ------|---------|-------|---------|
-@coconutperm  | 1     | 1       |       | -40,000 |
-@hyungheo     | 5     |         |       |-160,000 |
-@cs.lee       | 2     | 1       | 2     | -50,000 |
-@Wuseok       |       |         | 1     | +10,000 |
-@gogag        | 1     |         | 1     | 0       |
-@JayChl       | 1     |         |       | -20,000 |
-@newklus      |       | 1       |       | -40,000 |
-@taxoo.kim    |       | 1       |       | -10,000 |
+Name          | Amount  |
+------------- |---------|
+@coconutperm  | -40,000 |
+@hyungheo     | -170,000 |
+@cs.lee       | -50,000 |
+@Wuseok       | +10,000 |
+@gogag        | -40000  |
+@JayChl       | -20,000 |
+@newklus      | -40,000 |
+@taxoo.kim    | -20,000 |
 
-
-11.09 : hyungheo(+50000), taxoo.kim(+10000)
+11.09 : hyungheo(-50000 a+c), taxoo.kim(-10000 c)
+11.23 : hyungheo(-10000 c), taxoo.kim(-10000 c), gogag(-40000 a)
