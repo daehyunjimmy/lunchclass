@@ -12,4 +12,5 @@ Name          | Amount  |
 @taxoo.kim    | -20,000 |
 
 11.09 : hyungheo(-50000 a+c), taxoo.kim(-10000 c)
+
 11.23 : hyungheo(-10000 c), taxoo.kim(-10000 c), gogag(-40000 a)
