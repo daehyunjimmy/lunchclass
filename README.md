@@ -1,17 +1,18 @@
 # lunchclass
 
-Name          | Amount  |
-------------- |---------|
-@coconutperm  | -40,000 |
-@hyungheo     | -180,000 |
-@cs.lee       | -60,000 |
-@Wuseok       | +10,000 |
-@gogag        | -40000  |
-@JayChl       | -20,000 |
-@newklus      | -40,000 |
-@taxoo.kim    | -30,000 |
-@jaeseok.yoon | -10,000 |
-@daehyunjimmy | -10,000 |
+Name          |  Amount  | reserved| 
+------------- |----------|---------|
+@coconutperm  |  -40,000 | 200,000 |
+@hyungheo     | -180,000 | 200,000 |
+@cs.lee       |  -60,000 | 200,000 |
+@Wuseok       |  +10,000 |         |
+@gogag        |  -40000  | 200,000 |
+@JayChl       |  -20,000 | 200,000 |
+@newklus      |  -40,000 | 200,000 |
+@taxoo.kim    |  -30,000 | 200,000 |
+@jaeseok.yoon |  -10,000 |         |
+@daehyunjimmy |  -10,000 |         |
+@romandev     |          | 200,000 |
 
 11.09 : hyungheo(-50000 a+c), taxoo.kim(-10000 c)
 
