@@ -34,5 +34,4 @@ total account (1660,000)
 
 01.04 : taxoo.kim(-10000 c), daehyunjimmy(-10000 c), cs.lee(-10000 c), jaeseok.yoon(-10000 c), hyungheo(-10000 c)
 
-------------------- 01.11 -------------------
-taxoo.kim(140,000) romandev(40,000)
+taxoo.kim(+140,000 a) romandev(+40,000 a)
