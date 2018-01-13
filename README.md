@@ -5,7 +5,7 @@ Name          |   left   | reserved|     total  |
 @coconutperm  |          | 160,000 |   -40,000  |
 @hyungheo     | - 10,000 |         |   -200,000 |
 @cs.lee       |          | 100,000 |   -100,000 |
-@Wuseok       |  +10,000 |         |            |
+@Wuseok       |          |         |            |
 @gogag        |          | 160,000 |   -40,000  |
 @JayChl       |          | 180,000 |   -20,000  |
 @newklus      |          | 160,000 |   -40,000  |
@@ -16,7 +16,8 @@ Name          |   left   | reserved|     total  |
 @nadonguri    |  -30,000 |         |            |
    total      |  -80,000 | 1070,000|   -590,000 |
 
-total account (1660,000)
+pay amount(-180,000)
+total account (1520,000)
 
 11.09 : hyungheo(-50000 a+c), taxoo.kim(-10000 c)
 
@@ -34,4 +35,4 @@ total account (1660,000)
 
 01.04 : taxoo.kim(-10000 c), daehyunjimmy(-10000 c), cs.lee(-10000 c), jaeseok.yoon(-10000 c), hyungheo(-10000 c)
 
-taxoo.kim(+140,000 a) romandev(+40,000 a)
+01.14 : taxoo.kim(+140,000 p) romandev(+40,000 p)
