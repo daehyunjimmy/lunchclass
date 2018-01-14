@@ -13,11 +13,11 @@ Name          |   left   | reserved|     total  |
 @jaeseok.yoon |  -40,000 |         |            |
 @daehyunjimmy |          |         |   -60,000  |
 @romandev     |          | 190,000 |   -10,000  |
-@nadonguri    |  -30,000 |         |            |
-   total      |  -80,000 | 1070,000|   -590,000 |
+@nadonguri    |          |         |   -30,000  |
+   total      |  -50,000 | 1070,000|   -620,000 |
 
 pay amount(-180,000)
-total account (1520,000)
+total account (1510,000)
 
 11.09 : hyungheo(-50000 a+c), taxoo.kim(-10000 c)
 
