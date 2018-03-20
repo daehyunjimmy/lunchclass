@@ -10,14 +10,13 @@ Name          |   left   | reserved|     total  |
 @JayChl       |          | 180,000 |   -20,000  |
 @newklus      |          | 160,000 |   -40,000  |
 @taxoo.kim    |          | 120,000 |   -80,000  |
-@jaeseok.yoon |  -40,000 |         |            |
+@jaeseok.yoon |          |         |   -40,000  |
 @daehyunjimmy |          |         |   -60,000  |
 @romandev     |          | 190,000 |   -10,000  |
 @nadonguri    |          |         |   -30,000  |
-   total      |  -50,000 | 1070,000|   -620,000 |
+   total      |  -10,000 | 1070,000|   -660,000 |
 
-pay amount(-180,000)
-total account (1510,000)
+total account (490,000) (hyungheo needs to pay 10,000)
 
 11.09 : hyungheo(-50000 a+c), taxoo.kim(-10000 c)
 
@@ -36,3 +35,5 @@ total account (1510,000)
 01.04 : taxoo.kim(-10000 c), daehyunjimmy(-10000 c), cs.lee(-10000 c), jaeseok.yoon(-10000 c), hyungheo(-10000 c)
 
 01.14 : taxoo.kim(+140,000 p) romandev(+40,000 p)
+
+02.26 : reserved done (1070,000)
